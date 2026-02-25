@@ -4,7 +4,7 @@
 
 K is defined as 1 Megawatt-hour (1 MWh) of effective productive energy.
 
-K represents a measurable physical unit of production load.
+K represents a measurable physical unit of energy used in productive transformation.
 
 ---
 
